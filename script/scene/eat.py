@@ -2,8 +2,6 @@ import random
 import time
 from typing import cast
 
-import pygame.rect
-
 from script.bread import Bread
 from script.scene import *
 from script.text import TextRender

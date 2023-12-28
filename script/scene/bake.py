@@ -1,7 +1,5 @@
 import time
 
-import pygame
-
 from script.scene import *
 from script.text import TextRender
 from script.state import state
